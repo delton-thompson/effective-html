@@ -1,0 +1,7 @@
+{
+  "name": "plannotator-effective-html",
+  "skills": [
+    "./skills/html-diagram",
+    "./skills/html-plan"
+  ]
+}
