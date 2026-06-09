@@ -15,3 +15,5 @@ After reviewing them, create an HTML file that is strictly for visualizing the a
 It should not be prose-heavy. It should simplify more into a full-screen diagram and whatnot.
 
 Build a high-quality diagram in SVG. Take your time iterating on the diagram more than anything.
+
+If it makes sense, make the diagram interactive and able to visualize and animate different sequences of system behavior.

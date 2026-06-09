@@ -11,5 +11,3 @@ Review the files throughout `references/html-effectiveness/`.
 After reviewing them, create an HTML file for the plan in a similar style.
 
 Keep it pragmatic and simple.
-
-If the user provides prose for the plan, keep it close to what they wrote. Just correct the grammar and keep it at that.
