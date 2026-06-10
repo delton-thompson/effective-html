@@ -7,8 +7,9 @@ https://github.com/user-attachments/assets/24306977-7f30-44c9-9bff-55f901d557b0
 _**Note:** The diagram in the video was made by `Fable 5`, I will create more fable 5 artifacts and add them to the skill reference folder for smaller models to distill._
 
 
-Two focused skills for generating self-contained HTML deliverables with a strong visual bias:
+Focused skills for generating self-contained HTML deliverables with a strong visual bias:
 
+- `html`: an HTML file for whatever you're describing, in the effective HTML style
 - `html-diagram`: architecture, stack, and systems understanding rendered as full-screen HTML diagrams with high-quality SVG
 - `html-plan`: HTML plan pages in the effective HTML style
 
@@ -39,6 +40,7 @@ npx skills add plannotator/effective-html --skill html-plan
 
 ## Skills
 
+- `html` - Create an HTML file for whatever the user is describing, matching the effective HTML references.
 - `html-diagram` - Build full-screen HTML architecture and stack diagrams with SVG-first presentation and minimal prose.
 - `html-plan` - HTML plan pages in the effective HTML style.
 
