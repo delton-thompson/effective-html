@@ -4,7 +4,7 @@
 
 https://github.com/user-attachments/assets/24306977-7f30-44c9-9bff-55f901d557b0
 
-_**Note:** The diagram in the video was made by `Fable 5`, I will create more fable 5 artifacts and add them to the skill reference folder for smaller models to distill._
+_**Note:** The diagram was made by `Fable 5`, I will create more fable 5 artifacts and add them to the skill folder for smaller models to distill._
 [example demo](https://x.com/backnotprop/status/2065479594023829619?s=20)
 
 
@@ -19,6 +19,11 @@ Focused skills for generating self-contained HTML deliverables with a strong vis
     <img src="./star-plannotator.svg" width="340" alt="like this? star Plannotator">
   </a>
 </p>
+<p align="center">
+Render and annotate your HTML with Plannotator (optional): https://github.com/backnotprop/plannotator
+</p>
+
+--- 
 
 ## Install
 
